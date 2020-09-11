@@ -8,13 +8,17 @@
 </head>
 
 <body>
-    <ion-card-title>Cadastro De Contatos</ion-card-title>
     <html>
 
     <head>
         <meta charset="UTF-8">
     </head>
-    <form action="" method="POST">
+    <form style="background: #069cc2; border:6px; 
+          padding: 15px; cursor: auto; color: #fff; border: wheat ; 
+          font-size: 16px; margin: auto;text-align: left;
+          margin-left: 10cm; margin-right: 17cm;
+    
+           " action="" method="POST">
 
         <p>
             Nome:<br />
@@ -31,15 +35,19 @@
             <input type="text" size="30" name="Comentarios">
         </p>
 
-        <p>
-            <a><button name="enviar" style="background: #069cc2; border-radius:
-         6px; padding: 15px; cursor: pointer; color: #fff; border: none; font-size: 16px;">Salvar</button></a>
+
     </form>
     <p>
-        <a href="http://127.0.0.1:8000/autores"><button style="background: #069cc2;
+        <p>
+            <a><button name="enviar" style="background: #069cc2; border-radius:
+         6px; padding: 15px; cursor: pointer; color: #fff; border: none; font-size: 16px; margin-left: 12cm; margin-right: 17cm;">Salvar</button></a>
+
+
+
+            <a href="http://127.0.0.1:8000/autores"><button style="background: #069cc2;
          border-radius: 6px; padding: 15px; cursor: pointer; color: #fff;
-          border: none; font-size: 16px;">Quem fez o projeto!</button></a>
-    
+          border: none; font-size: 16px;  margin-right: 10cm; margin-right: 17cm; position: sticky;">Quem fez o projeto</button></a>
+
 </body>
 
 </html>
