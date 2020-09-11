@@ -14,7 +14,7 @@
         <meta charset="UTF-8">
     </head>
     <form style="background: #069cc2; border:6px; 
-          padding: 15px; cursor: auto; color: #fff; border: wheat ; 
+          padding: 15px; cursor: pointer; color: #fff; border: wheat ; 
           font-size: 16px; margin: auto;text-align: left;
           margin-left: 10cm; margin-right: 17cm;
     
@@ -46,8 +46,9 @@
 
             <a href="http://127.0.0.1:8000/autores"><button style="background: #069cc2;
          border-radius: 6px; padding: 15px; cursor: pointer; color: #fff;
-          border: none; font-size: 16px;  margin-right: 10cm; margin-right: 17cm; position: sticky;">Quem fez o projeto</button></a>
+          border: none; font-size: 16px;  margin-right: 10cm; margin-right: 17cm;position:fixed;">Quem fez o projeto</button></a>
 
 </body>
 
 </html>
+
