@@ -16,7 +16,7 @@
     <form style="background: #069cc2; border:2cm; 
           padding: 15px; cursor: pointer; color: #fff;  ; 
           font-size: 16px; text-align: left;
-          margin-left: 5cm; margin-right: 20cm; border: none;
+          margin-left: 5.1cm; margin-right: 20cm; border: none;
     
            " action="" method="POST">
 
